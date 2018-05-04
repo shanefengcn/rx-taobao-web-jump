@@ -8,10 +8,10 @@
 ## 更新记录
 
 ### 1.2 - 2018/04/27
-* 增加优酷 (com.youku.phone)
+* 增加优酷 (com.youku.phone), 感谢[kalonelee](https://github.com/kalonelee/rx-youku-web-jump)
 
 ### 1.1 - 2018/04/27
-* 增加京东 (com.jingdong.app.mall)
+* 增加京东 (com.jingdong.app.mall), 感谢[JohnChu101](https://github.com/JohnChu101/rx-jd-web-jump)
 
 ## 鸣谢
-感谢 [Oasisfeng](https://github.com/oasisfeng/rx-taobao-web-jump)，[kalonelee](https://github.com/kalonelee/rx-youku-web-jump)
+感谢 [oasisfeng](https://github.com/oasisfeng/rx-taobao-web-jump)
